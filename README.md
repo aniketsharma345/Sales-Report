@@ -27,7 +27,7 @@ The dashboard provides insights into sales performance, customers, countries, pr
 ![2003 Dashboard](images/dashboard_2003.png)  
 
 - *2003–2005 Combined Dashboard View*  
-![Overall Dashboard](images/dashboard_all.png)  
+![Overall Dashboard](https://github.com/aniketsharma345/Sales-Report/blob/main/Sales%20day%204.png)  
 
 *(Make sure your screenshots are placed inside an /images folder in your repo. Rename them as dashboard_2003.png and dashboard_all.png.)*  
 
